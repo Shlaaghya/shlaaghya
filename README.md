@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Shlaaghya/shlaaghya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 *![](https://readme-typing-svg.herokuapp.com?size=30&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Shlaaghya!!👋🏻;+Welcome+To+My+Profile!!😇+)*
